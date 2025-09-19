@@ -1,63 +1,77 @@
-<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+# 👋 Hi, I'm Aakash S
 
-⭐️ Congratulations Aakashvscode! ⭐️
-
-You completed this exercise! Nice work! 🥳
-
-If you would like to practice again, you can retrace your steps below. Just press the **Start Exercise** button again.
-
-> [!TIP]
-> Mona won't grade you this time! 😉
-
-
- # Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
-
-## Welcome
-
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
-
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
-
-In this exercise, you will:
-
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
-
-### How to start this exercise
-
-1. Right-click **Copy Exercise** and open the link in a new tab.
-
-   <a id="copy-exercise">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
-   </a>
-
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.chttps://github.com/Aakashvscode/skills-introduction-to-github/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-
-3. After your new repository is created, wait about 20 seconds for the exercise to be prepared and buttons updated. You will continue working from your copy of the exercise.
-   - The **Copy Exercise** button will deactivate, changing to gray.
-   - The **Start Exercise** button will activate, changing to green.
-   - You will likely need to refresh the page.
-
-4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
-
-   <a id="start-exercise" href="https://github.com/Aakashvscode/skills-introduction-to-github/issues/1">
-      <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
-   </a>
-
-> [!IMPORTANT]
-> The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
+💻 **Aspiring Software Developer** | Java • JDBC • SQL (Oracle & MySQL) • HTML • CSS • JavaScript  
+🎯 Blending backend logic with engaging UI/UX design to deliver polished, high‑quality solutions  
+📍 Kancheepuram, Tamil Nadu, India  
+📧 [aakashsamuthirapandi@gmail.com](mailto:aakashsamuthirapandi@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/aakash-s-a253822b3) | [GitHub](https://github.com/AakashSak)
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## 🚀 About Me
+
+I’m a **Java & SQL developer** with strong **OOP** and modular coding expertise, experienced in building responsive, user‑friendly web interfaces and integrating applications with relational databases.  
+
+- **400+ SQL queries** written in Oracle SQL\*Plus, with additional MySQL experience  
+- Skilled in **CRUD operations**, sub‑queries, grouping, and database normalization  
+- Proficient in **GitHub version control** and **Prompt Engineering** for structured AI outputs  
+- Passionate about **clean code, performance optimization, and creative UI/UX**  
+
+Currently seeking a **full‑time software development role** where I can contribute meaningfully and grow with a dynamic team.
+
+---
+
+## 🛠 Technical Skills
+
+- **Languages:** Java, SQL (Oracle SQL\*Plus, MySQL), HTML5, CSS3, JavaScript  
+- **Core Skills:** OOP, modular coding, debugging, performance optimization  
+- **Database:** CRUD operations, sub‑queries, grouping, normalization, DDL/DML/TCL/DCL/DQL  
+- **Tools & Frameworks:** JDBC, GitHub, Prompt Engineering  
+- **Design:** Responsive UI/UX, semantic HTML, Flexbox, DOM manipulation
+
+---
+
+## 💼 Projects
+
+### 🎬 Movie Booking & Management System *(Java, JDBC)*  
+Java‑MySQL app for real‑time movie record management with CRUD operations.  
+[🔗 View Project](#)
+
+### 🤖 ChatGPT Prompt Automation *(Prompt Engineering)*  
+Designed prompts for structured, accurate, and automated AI responses.  
+[🔗 View Project](#)
+
+### 🍽 Swiggy Restaurant Ordering System *(Java)*  
+Simulates restaurant ordering with dynamic menus, billing logic, and OTP‑based payment verification.  
+[🔗 View Project](#)
+
+### 🆔 Aadhar Information Management System *(Java)*  
+Secure user data updates using contact matching and OTP validation.  
+[🔗 View Project](#)
+
+### 🖥 GitHub Login Page Clone *(JavaScript)*  
+Built a responsive GitHub‑style login UI using pure JavaScript without external HTML/CSS.  
+[🔗 View Project](#)
+
+### 🏷 GS Snacks Branding & Label Design  
+Created professional product labels with precise alignment, clear branding, and compliance to packaging standards.  
+[🔗 View Project](#)
+
+---
+
+## 📊 GitHub Stats
+
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashSak&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashSak&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Let's Connect
+
+📧 [Email Me](mailto:aakashsamuthirapandi@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/aakash-s-a253822b3)  
+💻 [GitHub](https://github.com/AakashSak)
+
+---
+
+> *"Code is not just logic — it’s where creativity meets precision."*
