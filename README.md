@@ -2,8 +2,8 @@
 
 💻 **Aspiring Software Developer** | Java • JDBC • SQL (Oracle & MySQL) • HTML • CSS • JavaScript  
 🎯 Blending backend logic with engaging UI/UX design to deliver polished, high‑quality solutions  
-📍 Kancheepuram, Tamil Nadu, India  
-📧 [aakashsamuthirapandi@gmail.com](mailto:aakashsamuthirapandi@gmail.com)  
+📍 Kancheepuram, Tamil Nadu, India
+📧 [aakashsamuthirapandi@gmail.com](mailto:aakashsamuthirapandi@gmail.com) 
 🔗 [LinkedIn](https://linkedin.com/in/aakash-s-a253822b3) | [GitHub](https://github.com/AakashSak)
 
 ---
